@@ -34,8 +34,8 @@ The purpose of this analysis is to build a deep learning model capable of predic
   - This configuration was chosen to balance model complexity and performance while ensuring the model could capture nonlinear relationships in the data.
 
 - **Model Performance:**
-  - The model achieved a training accuracy of approximately **X%** and a validation accuracy of **Y%**.
-  - Despite iterative tuning, the model did not meet the target performance threshold of **Z% accuracy**.
+  - The model achieved a training accuracy of  **73.9%** and a validation accuracy of **73.8%**.
+  - The model did not meet the target performance threshold of **80% accuracy**.
 
 - **Steps Taken to Improve Performance:**
   - Adjusted the number of neurons and layers.
