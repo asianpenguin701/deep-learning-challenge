@@ -2,7 +2,7 @@
 ## Overview of the Analysis
 The purpose of this analysis is to build a deep learning model capable of predicting the success of charity funding applications. The goal is to preprocess the data, design, train, and evaluate a neural network to identify the most effective model configuration for accurate predictions.
 
-## Results
+### Results
 ### Model Summary
 | Layer (type)  | Output Shape | Param # |
 |---------------|--------------|---------|
@@ -14,7 +14,9 @@ The purpose of this analysis is to build a deep learning model capable of predic
 - **Trainable params:** 6,461 (25.24 KB)  
 - **Non-trainable params:** 0 (0.00 B)  
 
-- **Target Variable(s):**
+### Data Preprocessing
+
+-  **Target Variable(s):**
   - `IS_SUCCESSFUL`: This binary column indicates whether the funding application was successful (`1`) or not (`0`).
 
 - **Feature Variable(s):**
