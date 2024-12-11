@@ -48,7 +48,7 @@ The purpose of this analysis is to build a deep learning model capable of predic
 The deep learning model demonstrated moderate success in predicting the outcomes of funding applications but did not achieve the target accuracy. To improve classification performance, alternative approaches could include:
 
 - **Model Recommendation:**
-  - **Random Forests or Gradient Boosting Models (e.g., XGBoost):**
+  - **Random Forests Models:**
     - These models are robust for handling mixed data types and can better capture feature interactions and nonlinearity.
   - **Hyperparameter Tuning:**
     - Perform a grid or randomized search to optimize key parameters, such as learning rate, tree depth, and feature subset size.
