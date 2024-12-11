@@ -2,8 +2,6 @@
 ## Overview of the Analysis
 The purpose of this analysis is to build a deep learning model capable of predicting the success of charity funding applications. The goal is to preprocess the data, design, train, and evaluate a neural network to identify the most effective model configuration for accurate predictions.
 
----
-
 ## Results
 
 ### Data Preprocessing
@@ -48,5 +46,4 @@ The deep learning model demonstrated moderate success in predicting the outcomes
   - **Ensemble Methods:**
     - Combine multiple models to increase accuracy and robustness.
 
-By exploring these alternative methods, the classification problem may yield better results, leading to a more effective solution.
 
